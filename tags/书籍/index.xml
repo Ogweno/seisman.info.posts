@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>书籍 on SeisMan</title>
+    <link>http://blog.seisman.info/tags/%E4%B9%A6%E7%B1%8D/</link>
+    <description>Recent content in 书籍 on SeisMan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 06 Jul 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.seisman.info/tags/%E4%B9%A6%E7%B1%8D/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SAC 参考手册中文版</title>
+      <link>http://blog.seisman.info/sac-manual/</link>
+      <pubDate>Sat, 06 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.seisman.info/sac-manual/</guid>
+      <description>&lt;p&gt;此页面是《SAC 参考手册》的发布页。你可以使用 RSS 阅读器以获取新版本发布的通知。本项目的 RSS 地址为：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;https://github.com/seisman/SAC_Docs_zh/releases.atom
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;征集《SAC 参考手册》维护者，有意者点 &lt;a href=&#34;http://blog.seisman.info/maintainers-for-sac-manual-wanted/&#34;&gt;这里&lt;/a&gt;，长期有效。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
